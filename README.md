@@ -11,7 +11,7 @@ Welcome to "Car Go Rental System"- a simple, console-based car rental management
 - [Code Structure](#code-structure)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## 🌟 Features
 
